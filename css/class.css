@@ -1,0 +1,44 @@
+.column a {
+  padding: 0;
+  margin: 0;
+}
+.col-head {
+  cursor: default;
+  font-size: small;
+  color: #86868b;
+}
+.column a {
+  padding-bottom: 10px;
+}
+.dulcol{
+    color: #86868b;
+}
+.col-text {
+  font-size: x-large;
+  font-weight: bold;
+  color: rgb(239, 239, 239);
+  letter-spacing: 0.05cm;
+}
+.col-text:hover {
+  color: white;
+}
+
+.white-hover {
+  color: rgb(208, 208, 208);
+}
+
+.white-hover:hover {
+  color: white;
+  transition: 0.3s;
+}
+
+.text-white {
+  color: white;
+}
+
+.cursor-point {
+  cursor: pointer;
+}
+.icon-size {
+    font-size: 18px;
+}
